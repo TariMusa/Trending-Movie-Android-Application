@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieTrendR</string>
+    <string name="windowWeek"><b>Movies that are trending <font color="#7B1607">%1$s</font></b></string>
+    <string name="windowDay"><b>Movies that are trending <font color="#E81614">%1$s</font></b></string>
+</resources>
